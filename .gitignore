@@ -1,0 +1,7 @@
+.DS_Store
+
+# Ignore JetBrains IntelliJ IDEA and PyCharm project files
+.idea/
+
+# Exclude .DS_Store files (if not already added)
+.DS_Store
